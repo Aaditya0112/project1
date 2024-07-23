@@ -1,0 +1,9 @@
+.item{
+    width : 170px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-color: yellowgreen;
+    margin-left: 10px;
+    margin-right: 10px;
+}
